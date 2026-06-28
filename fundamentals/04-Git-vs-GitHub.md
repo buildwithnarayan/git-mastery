@@ -252,3 +252,6 @@ In the next chapter, we'll look inside Git itself and answer an important questi
 
 Understanding Git's architecture will make advanced topics like branching, merging, rebasing, and recovering lost commits much easier to understand.
 
+⬅️ Previous: [Why Git?](03-Why-Git.md)
+
+➡️ Next: [Git Architecture](05-Git-Architecture.md)
